@@ -6,3 +6,7 @@ You can check out repository on Github below:
 
 You can also visit us at
 [Facebook](https://www.facebook.com/MozillaKNIT/)
+
+
+To know more about the project you can ping the Project Lead: Adarsh 
+[Profile Link](https://www.facebook.com/learneradarsh)
